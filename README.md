@@ -10,9 +10,9 @@ Danny wants to use data to answer a few simple questions about his customers, pa
 
 He intends to use these insights to help him decide whether to expand his existing customer loyalty program. For this case study, Danny has provided three key datasets:
 
-Sales
-Menu
-Members
+Sales </br>
+Menu </br>
+Members </br>
 
 ## Case study link 
 ---> [Danny's Diner: Case Study](https://8weeksqlchallenge.com/case-study-1/)
