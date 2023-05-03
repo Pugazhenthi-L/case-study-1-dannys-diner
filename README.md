@@ -1,4 +1,4 @@
-Case Study #1: Danny's Diner
+#Case Study #1: Danny's Diner
 
 The 8 Week SQL Challenge is an initiative started by Danny Ma, who runs a website called "8weeksqlchallenge.com". Here, you can access case studies related to SQL practice, and solve real-life problems to develop a deeper understanding of SQL.
 
